@@ -1,2 +1,6 @@
 gowri is the srk student
+<<<<<<< HEAD
 hi is the
+=======
+fnsifhsiosofhho
+>>>>>>> 8e67ef0ed7ad651cbcc67dd421d1ffc594df5590
